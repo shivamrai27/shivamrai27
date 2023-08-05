@@ -1,6 +1,7 @@
+<img align="center" alt="coding" width="1500" height="500" src="">
 <h1 align="center">Hi 👋, I'm Shivam Rai</h1>
 <h3 align="center">A passionate wanna be Full-Stack Web Developer</h3>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamrai27&label=Profile%20views&color=0e75b6&style=flat" alt="shivamrai27" /> </p>
 
 - 💬 Ask me about **Java(JSP, Servlet, JDBC, Hibernate, JPA,), JavaScript(React, Node, MySQL, MongoDB)**
@@ -13,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/sh1vamrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sh1vamrai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivam-rai-9ba102173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-rai-9ba102173" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@shivamraiofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shivamraiofficial" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/@shivamraiofficial](https://www.youtube.com/channel/UC8NE0wOV2BylcTyz10QOYeA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shivamraiofficial" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivamrai27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivamrai27" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sh1vam_rai/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sh1vam_rai/profile" height="30" width="40" /></a>
 </p>
