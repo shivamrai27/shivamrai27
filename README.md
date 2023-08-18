@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **200shivamrai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11ogAiXfn-fwPe69495oyULwkzv0Jxi3I/view?usp=sharing](https://drive.google.com/file/d/11ogAiXfn-fwPe69495oyULwkzv0Jxi3I/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gShExN-ip4qDhgauDVCkyJrNk9CfH-o6/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
