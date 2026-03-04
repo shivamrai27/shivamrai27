@@ -99,11 +99,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivamrai27&show_icons=true&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shivamrai27&show_icons=true&theme=tokyonight"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrai27&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrai27&layout=compact&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrai27&layout=compact&theme=tokyonight"/> -->
 
 </p>
 
